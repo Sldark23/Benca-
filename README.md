@@ -5,3 +5,4 @@ Para baixar utilize
 ```
 git clone https://github.com/Sldark23/Benca-
 ```
+Quando o download foi feito Apague o arquivo README.md do projeto
