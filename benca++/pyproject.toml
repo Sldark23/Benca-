@@ -2,7 +2,7 @@
 name = "benca++"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["darksl15wl"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
